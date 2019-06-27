@@ -45,7 +45,3 @@ What things you need to install the software and how to install them
 
 * **Sparky Evangelista** - *Initial work* - (https://github.com/Sparkadelic177)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
