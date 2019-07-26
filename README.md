@@ -1,6 +1,7 @@
 # RESTful-blog
 
-The purpose of this web application was to practice building a REST-ful API 
+This is a CRUD application that lets you read, view, edit and delete blogs.
+The purpose of this web application was to practice building a custom REST-ful API.
 
 ## Getting Started
 
